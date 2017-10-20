@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 20, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Lance Hamic)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(To design a tax calculator application while learning about different types of java statements.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://lsh14.github.io/lesson5_javascript2/ 
+ or https://github.com/lsh14/lesson5_javascript2/tree/master/JavaScript%202)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. (An array is a set of data represented by a single variable name.)
+2. (A do/while statement executes a statement or statements once, then repeats the execution as long as a given conditional expression evaluates to a truthy value.)
+3. (There are two types of functions, a named function which is related statements assigned a name, and anonymous functions which are related statements with no name assigned.)
